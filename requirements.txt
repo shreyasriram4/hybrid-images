@@ -1,0 +1,9 @@
+matplotlib
+numpy
+opencv
+pillow
+py-opencv
+pyparsing==2.4.7
+pyttk==0.3.2
+scipy
+tk
