@@ -1,7 +1,7 @@
 # Hybrid Images Project
 
 ## Overview
-This project involves creating hybrid images through image filtering techniques as part of Cornell's CS5670 course. The goal is to blend high-frequency components of one image with low-frequency components of another, resulting in images that change perception with viewing distance.
+This project involves creating hybrid images through image filtering techniques. The goal is to blend high-frequency components of one image with low-frequency components of another, resulting in images that change perception with viewing distance.
 
 ## Setup
 Clone the repository and install dependencies:
